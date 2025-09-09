@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates the modeling and analysis of the **39-Bus New England Power System** using **Siemens PSS®E (Power System Simulator for Engineering)**. The 39-bus system is a widely used benchmark in power system research and education due to its complexity and practical representation of real-world grid behavior.
+This project demonstrates the modeling and analysis of the **39-Bus New England Power System** using **Siemens PSS®E (Power System Simulator for Engineering)**. The 39-bus system is a widely used benchmark in power system research and education due to its complexity and practical representation of real-world grid behavior. After making 39 bus system we calculated Y bus matrix whixh is also attached in the repo.
 
 The project covers:
 
@@ -71,12 +71,6 @@ It is often used for:
 2. Open PSS®E.
 3. Load the provided `.sav` or `.raw` file.
 4. Run load flow or other analysis as needed.
-
----
-
-## 📷 Sample Output
-
-![39 Bus Single Line Diagram](screenshots/39bus_sld.png)
 
 ---
 
